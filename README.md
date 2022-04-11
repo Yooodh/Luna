@@ -1,4 +1,4 @@
-# :carousel_horse:웨딩홀&nbsp;웹페이지&nbsp;프로젝트:carousel_horse:
+# :carousel_horse:웨딩홀&nbsp;웹&nbsp;페이지&nbsp;프로젝트:carousel_horse:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LUNA&fontSize=80)
 
 
